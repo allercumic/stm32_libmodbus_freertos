@@ -1,0 +1,29 @@
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Core/Inc/stm32f1xx_hal_conf.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Include/core_cm3.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: D:\FOR SOFT work\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: D:\FOR SOFT work\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+nood_modbus_test\stm32f1xx_hal_gpio_ex.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h

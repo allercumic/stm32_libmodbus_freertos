@@ -1,0 +1,43 @@
+nood_modbus_test\freertos.o: ../Core/Src/freertos.c
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nood_modbus_test\freertos.o: D:\FOR SOFT work\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+nood_modbus_test\freertos.o: D:\FOR SOFT work\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+nood_modbus_test\freertos.o: ../Core/Inc/FreeRTOSConfig.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+nood_modbus_test\freertos.o: ../Core/Inc/main.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nood_modbus_test\freertos.o: ../Core/Inc/stm32f1xx_hal_conf.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Include/core_cm3.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Include/cmsis_version.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+nood_modbus_test\freertos.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+nood_modbus_test\freertos.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h
+nood_modbus_test\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
+nood_modbus_test\freertos.o: D:\FOR SOFT work\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+nood_modbus_test\freertos.o: ../Drivers/KTH2R/kth2r.h
